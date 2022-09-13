@@ -1,0 +1,1 @@
+Implement a handwritten digit recognition app using the MNIST dataset using a special type of deep neural network that is Convolutional Neural Networks and build a GUI application. The handwritten digit recognition is the ability of computers to recognize human handwritten digits.
